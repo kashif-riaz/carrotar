@@ -26,7 +26,8 @@
   padding-right: 0rem;
   padding-left: 0rem;
   font-size: $fs-16;
-  //   color: white;
+  color: white;
+  font-weight: 500;
 }
 
 .navbar-expand-lg .navbar-nav {
@@ -35,6 +36,8 @@
 
 .company-name {
   font-size: $fs-24;
+  color: White;
+  font-weight: 500;
 }
 
 .navbar {
@@ -150,12 +153,14 @@
 
   .navbar-expand-lg .navbar-nav .nav-link {
     color: $white-color;
+    font-weight: normal;
   }
+
 
   .button {
     background-color: $white-color;
     color: #000000 !important;
-    padding: 1rem 2rem ;
+    padding: 1rem 2rem;
     min-width: fit-content;
     border-radius: 2rem;
     border: 2px solid transparent;

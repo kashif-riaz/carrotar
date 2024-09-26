@@ -21,6 +21,8 @@
   padding-right: 0rem;
   padding-left: 0rem;
   font-size: 1.6rem;
+  color: white;
+  font-weight: 500;
 }
 
 .navbar-expand-lg .navbar-nav {
@@ -29,6 +31,8 @@
 
 .company-name {
   font-size: 2.4rem;
+  color: White;
+  font-weight: 500;
 }
 
 .navbar {
@@ -135,6 +139,7 @@
   }
   .navbar-expand-lg .navbar-nav .nav-link {
     color: #fff;
+    font-weight: normal;
   }
   .button {
     background-color: #fff;
